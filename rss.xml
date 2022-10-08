@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://newzone.top/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>LearnData-开源笔记</title>
+    <link>https://newzone.top/</link>
+    <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
+    <language>zh-CN</language>
+    <pubDate>Fri, 07 Oct 2022 16:06:42 GMT</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2022 16:06:42 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>观察随笔</category>
+    <category>工具</category>
+    <category>博客</category>
+    <category>头脑驿站</category>
+    <category>购物</category>
+    <category>系统</category>
+    <category>自动化</category>
+    <item>
+      <title>「华为没电也能打电话」「iPhone 没电也能刷公交卡」，手机品牌是被绑架还是行业底线就是低？</title>
+      <link>https://newzone.top/_posts/2022-09-07-extreme_branding_thinking_with_mate50.html</link>
+      <guid>https://newzone.top/_posts/2022-09-07-extreme_branding_thinking_with_mate50.html</guid>
+      <source url="https://newzone.top/rss.xml">「华为没电也能打电话」「iPhone 没电也能刷公交卡」，手机品牌是被绑架还是行业底线就是低？</source>
+      <category>观察随笔</category>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>华为 Mate50 时隔两年后再次发布，然后就看了一堆标题为「华为 Mate 50 没电也能打电话」的新闻，某度为您找到相关资讯 139 个。看到这标题，我直接傻眼，你们这些媒体是认真的吗？<strong>是收了哪边的公关费</strong>？</p>
+<p><img src="http://tc.seoipo.com/2022-09-07-11-29-53.png?imageMogr2/thumbnail/!60p" alt="" loading="lazy"></p>
+<h2 id="个人观察" tabindex="-1"> 个人观察</h2>
+<p>我的主力机是荣耀 20S，用了三年依旧能打，因此我对华为和鸿蒙充满好感，平常的购买也会倾向国产。但是，半路半粉的我看到这个标题，对这款手机的好感直接 <code>-1</code>。</p>
+<p>当然，华为发布会上从没说过「没电也能打电话」，官方说法是「在 1% 低电量下智能启动聚能泵，待机可达三小时或者通话 12 分钟，或亮码 10 次，或扫码 4 次。」这个应急功能实际上是不错的，能缓解充电焦虑。历过数次 2% 直接关机后，我很喜欢这种关机前再榨一把的充电技术。</p>
+<p>有种黑的说法是，「只是把电池低电量保护分级罢了，比如，低电量 15% 电池进入保护，那么，后台只需将 85% 的电量重新显示为 100%，即手机显示的 1% 绝不是真实的 1%，小技俩而已。」</p>
+<p>而我对这种想法是不信的，如果真是这样的套壳宣传，随便检测都能发现，对于华为来说完全是得不偿失。</p>
+<h2 id="华为需要极端宣传吗" tabindex="-1"> 华为需要极端宣传吗？</h2>
+<p>「走极端才能创造话题」是品牌成功和营销的第一步，但这只是第一步。</p>
+<p>在美国打压下，华为已经是民族主义的顶流了，正常宣传就能拥有一大堆的拥趸，不必每天打鸡血造话题，更不需要用震惊体来吸引流量。</p>
+<p>那为什么华为依然用「没电也能打电话」这类极端的宣传方式？</p>
+<p>我猜测是被自媒体绑架了。</p>
+<p>除打包合作外，媒体宣传费用是建立在播放、阅读、互动的基础上。即使是固定价格的打包合作，这次的流量也会决定是否有下次的合作。因此，对自媒体来说，它不在乎观众对品牌的观感是否被消耗，它在乎的是流量，是互动。即使有黑子，那也是互动啊。有了互动，平台会持续给宣传载体进行加权并推流，自媒体的议价能力也持续提高。</p>
+<p><img src="http://tc.seoipo.com/2022-09-07-13-24-33.png" alt="" title="宣传流量图" loading="lazy"></p>
+<p>华为总被嘲笑有海军，可能有它自身的原因，但这些极端化媒体的绑架也少不了。</p>
+<p>过多的极端宣传，舆论引起的反噬会远超你获得的利益。不是每个人都会仔细查看你的宣传稿，看到上百篇高级写着华为「没电也能打电话」，真有人会以为你有什么黑科技了。</p>
+<h2 id="手机行业的底线" tabindex="-1"> 手机行业的底线</h2>
+<p>原本以为只是华为这样，但 @Dean 提供了另一个梗「iPhone 没电也能刷公交卡」，理由是门禁卡等 NFC 设备没电也能使用。这个梗从 2018 开始每年都要吹一波，门禁卡没电，那么黑科技加持的 iPhone 没电自然也能刷公交卡。这乍听蛮像一回事的，网上也有一堆人相信，但苹果官方文档直接打脸，「即使您的 iPhone 需要充电，您或许也能够在设备上使用“快捷模式”卡片、凭证和钥匙。如果将 iPhone 关机，这项功能将不可用。」</p>
+<p>可能事实就像 @VirtualProsperity 和 @弘隐 说的一样，「作为前手机行业营销从业者，很负责的说，几乎任何手机品牌不会被媒体绑架。因为营销的时候媒体只是其中一个环节，但绝非重要到要为媒体去绑架的程度」，「手机行业的营销很多时候是很 LOW 的 LOW 到你不敢想象是真的」。</p>
+<p>我也身处广告行业，面对的甲方多为快消品。快消品购买频次高，因此品牌方把品牌商誉和防黑放在首位，而手机更换需要 1-3 年，等到下次购买顾客已经遗忘了前几年的极端宣传。或许手机品牌正因为这点而肆意妄为，一切宣传以传播效果为先，以眼前销量为主。一次两次还行，多次之后你还会上当？还会购买这类品牌？我不会。然而，手机行业的想法可能真的不一样，底线有点低。</p>
+<h2 id="最后" tabindex="-1"> 最后</h2>
+<p>如果你是刚起家的自媒体和品牌，尽管去用走极端的宣传方式，毕竟营销不是道德审判，活下去才是第一步。</p>
+<p>但如果你已经有一定的知名度了，请先想清楚，你真的需要「走极端」的垃圾流量吗？真的要赌互联网记忆？</p>
+]]></content:encoded>
+      <enclosure url="http://tc.seoipo.com/2022-09-07-11-29-53.png?imageMogr2/thumbnail/!60p" type="image/"/>
+    </item>
+    <item>
+      <title>零基础入门 Stable Diffusion - 无需显卡把 AI 绘画引擎搬进家用电脑</title>
+      <link>https://newzone.top/_posts/2022-09-05-stable_diffusion_ai_painting.html</link>
+      <guid>https://newzone.top/_posts/2022-09-05-stable_diffusion_ai_painting.html</guid>
+      <source url="https://newzone.top/rss.xml">零基础入门 Stable Diffusion - 无需显卡把 AI 绘画引擎搬进家用电脑</source>
+      <category>工具</category>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>我从小特别羡慕会画画的伙伴，他们能绘出心中所想，而本人水平最高的肖像画是丁老头。接触 Stable Diffusion 后，我脱胎换骨，给自己贴上了「会画画」的新标签。</p>
+<p><img src="http://tc.seoipo.com/2022-09-04-11-53-20.png" alt="" title="丁老头进化旅程" loading="lazy"></p>
+<p>Stable Diffusion 是以文本生成图像的 AI 工具，也是唯一一款开源且能部署在家用电脑上的 AI 绘图工具，<strong>可以在 6GB 显存显卡或无显卡（只依赖 CPU）下运行</strong>，并在几秒钟内生成图像，无需预处理和后处理。</p>
+<p>体验 AI 绘图可借助在线工具 <a href="https://huggingface.co/spaces/stabilityai/stable-diffusion" target="_blank" rel="noopener noreferrer">Hugging Face</a>、<a href="https://beta.dreamstudio.ai/" target="_blank" rel="noopener noreferrer">DreamStudio</a> 或 <a href="https://wenxin.baidu.com/moduleApi/ernieVilg" target="_blank" rel="noopener noreferrer">百度文心</a>。与本地部署相比，Hugging Face 需排队，生成一张图约 5 分钟；DreamStudio 可免费生成 200 张图片，之后需要缴费；百度文心能用中文生成图片，但仍处于 beta 阶段，未正式商用。更重要的是，这类在线工具对图片的调教功能偏弱，无法批量生成图片，只能测试体验。</p>
+<p>如果想生成大量 AI 图片，可以通过 Docker Desktop 将 <a href="https://github.com/AbdBarho/stable-diffusion-webui-docker" target="_blank" rel="noopener noreferrer">Stable Diffusion WebUI Docker</a> 部署到家用电脑，从而免费实现 AI 文字绘画，不再被在线工具所限制。Stable Diffusion 同样适用于 Mac，M1/M2 Mac 建议使用更简便的 <a href="https://www.charl-e.com/" target="_blank" rel="noopener noreferrer">CHARL-E</a> 或 @玉树芝兰 推荐的 <a href="https://sspai.com/post/75682" target="_blank" rel="noopener noreferrer">DiffusionBee</a>。</p>
+<p><img src="http://tc.seoipo.com/2022-09-05-16-22-45.png" alt="" title="Stable Diffusion 部署流程" loading="lazy"></p>
+<p>本文以 Windows 平台为例，下面会依次介绍环境配置，Stable Diffusion 安装和基本使用方法。</p>
+<h2 id="docker-环境配置" tabindex="-1"> Docker 环境配置</h2>
+<p>本方案基于 Docker 配置，而 Docker 实质上是在已经运行的 Linux 下制造了一个隔离的文件环境，它必须部署在 Linux 内核的系统上。<sup></sup> 因此，Mac 不用特别配置，而 Windows 系统想部署 Docker 就必须需要安装一个虚拟 Linux 环境，<strong>配置 WSL 或是启用 Hyper-V</strong>。下面我会介绍各自的启用方式，<strong>二选一即可</strong>，推荐使用子系统 WSL（占用系统盘 30G 的空间）。</p>
+<h3 id="安装-wsl" tabindex="-1"> 安装 WSL</h3>
+<p>在管理员 PowerShell 输入命令 <code>wsl --install</code>，之后终端会默认安装 Ubuntu。系统下载时间较长，注意别关机。<sup></sup> 安装 Ubuntu 完成后，按提示设置 Ubuntu 账户和密码。</p>
+<h3 id="启用-hyper-v" tabindex="-1"> 启用 Hyper-V</h3>
+<p>以管理员身份打开 PowerShell 控制台，输入命令 <code>Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All</code>。<sup></sup> 重启电脑后，将开启 Hyper-V。</p>
+<h2 id="配置-stable-diffusion" tabindex="-1"> 配置 Stable Diffusion</h2>
+<p>按平台选 <a href="https://docs.docker.com/get-docker/" target="_blank" rel="noopener noreferrer">Docker Desktop</a> 版本，安装后点击左侧的 Add Extensions，推荐 Disk usage 扩展，便于管理 Docker 存储空间。</p>
+<p><img src="http://tc.seoipo.com/2022-09-04-17-06-27.png" alt="" title="Docker Desktop 界面" loading="lazy"></p>
+<p>然后，将 <a href="https://github.com/AbdBarho/stable-diffusion-webui-docker/releases/" target="_blank" rel="noopener noreferrer">Stable Diffusion WebUI Docker</a> 下载并解压到本地硬盘。或者，使用阿里云盘下载 <a href="https://www.aliyundrive.com/s/EKmK7MGrHdn" target="_blank" rel="noopener noreferrer">聚合版</a>，2022.10.01 更新。</p>
+<h3 id="选择分支" tabindex="-1"> 选择分支</h3>
+<p>目前 Stable Diffusion 有 hlky、auto、auto-cpu 和 lstein 四个分支。如果要更换分支，则更改镜像构建命令 <code>docker compose --profile [ui] up --build</code>，将 <code>[ui]</code> 替换为所需的镜像名即可。</p>
+<ul>
+<li><strong>hlky</strong>（推荐）：界面直观，最高分辨率为 1024x1024，是最受欢迎的主题，镜像构建命令为 <code>docker compose --profile hlky up --build</code>。</li>
+<li><strong>auto</strong>：设置模块最丰富，显示绘画过程，支持随机插入艺术家、参数读取和否定描述，最高分辨率为 2048x2048（高分辨率对显存要求更高），镜像构建命令为 <code>docker compose --profile auto up --build</code>。</li>
+<li><strong>auto-cpu</strong>：唯一不依赖显卡的分支。你没有符合要求的显卡或是 Mac 用户，可以使用 CPU 版本，稍后的镜像构建命令为 <code>docker compose --profile auto-cpu up --build</code>。A 卡用户注意修改 <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs#running-inside-docker" target="_blank" rel="noopener noreferrer">显卡设置</a>。</li>
+<li><strong>lstein</strong>：cli 端非常成熟，WebUI 端参数较少，能自动读取图片记录，适合无进阶需求的新手使用，镜像构建命令为 <code>docker compose --profile lstein up --build</code>。</li>
+</ul>
+<h3 id="准备-linux-路径" tabindex="-1"> 准备 Linux 路径</h3>
+<p>配置 Stable Diffusion WebUI Docker 后，进入 Linux 环境启动 Docker 容器。不过在启动 Docker 前，我们需拥有 Stable Diffusion 的 Linux/Mac 路径。</p>
+<p>Windows 本地磁盘挂载在 Linux 的 mnt 目录下，因此 Windows 的 Linux 路径需先添加 <code>/mnt/</code> 前缀，然后把磁盘符号改为小写，并将反斜扛 <code>\</code> 替换为 <code>/</code>。假设容器位于「D:\Backup\Libraries\Desktop\stable-diffusion-webui-docker」，转换为 Linux 路径则是「/mnt/d/Backup/Libraries/Desktop/stable-diffusion-webui-docker」。（Mac 可忽略本段，直接使用自身路径。）</p>
+<h2 id="启动-stable-diffusion" tabindex="-1"> 启动 Stable Diffusion</h2>
+<p>准备好 Linux 路径后，启动 Docker Desktop，打开 WSL Ubuntu 或 Mac 终端输入切换路径命令 <code>cd /mnt/d/Backup/Libraries/Desktop/stable-diffusion-webui-docker</code>，进入 Stable Diffusion WebUI Docker 解压文件目录执行部署命令。</p>
+<div><pre><code><span># 自动下载采样模型和依赖包</span>
+<span>docker</span> compose <span>--profile</span> download up <span>--build</span>
+<span># 上方命令需要 20 分钟或更长，完成后执行镜像构建命令</span>
+<span>docker</span> compose <span>--profile</span> hlky up <span>--build</span>
+<span># hlky 是推荐分支，也可以选择 auto | auto-cpu | lstein</span>
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div></div></div><p>构建完成后，提示访问 <code>http://localhost:7860/</code>，你就可以在本地 AI 生成图片了。<sup></sup></p>
+<p><img src="http://tc.seoipo.com/2022-09-04-18-32-31.png" alt="" loading="lazy"></p>
+<p>之后，打开 Docker Desktop 就会启动 Stable Diffusion。下载新版 <a href="https://github.com/AbdBarho/stable-diffusion-webui-docker/releases/" target="_blank" rel="noopener noreferrer">配置文件</a> ，按上方步骤重新构建容器即可更新 Stable Diffusion。</p>
+<h2 id="界面说明" tabindex="-1"> 界面说明</h2>
+<p>接下来，我会介绍最流行的 hlky 界面，其他分支的主题界面略有不同，但功能并没有大的变化，如何更换分支看下方的常见问题。</p>
+<h3 id="text-to-image" tabindex="-1"> Text-to-Image</h3>
+<p>Text-to-Image 是 Stable Diffusion 依据文字描述来生成图像。生成图片的分辨率有限制，不够的话可以用 Upscale 放大图片。风景、创意画等崇尚空间结构的画作类型时，优先推荐竖图或者横图。人像类画作推荐 1:1 的方图，否则可能会出现两个或者多个人脸的叠加现象。</p>
+<p><img src="http://tc.seoipo.com/2022-09-05-08-28-23.png" alt="" title="Text-to-Image 界面" loading="lazy"></p>
+<p>默认使用 Simple 简单模式，点击右侧按钮 Advanced，可查看进阶选项，使用进阶的场景矩阵、面孔修复和分辨率放大等多种功能。</p>
+<h3 id="image-to-image" tabindex="-1"> Image-to-Image</h3>
+<p>Image-to-Image 依据文字描述和输入源图，生成相关的图像。该模式若以素描、结构画为来源图，可充分填充图像细节；若以细节充分的照片为来源图，则会输出差异较大的结果。</p>
+<p><img src="http://tc.seoipo.com/2022-09-04-15-39-00.png" alt="" title="Image-to-Image 界面" loading="lazy"></p>
+<p>Denoising Strength 指与原图的差异度，建议在 0.75-0.9，魔改图片可以设为 0.5 以下。下图中的 Denoising Strength 只有 0.44，整体图片结构与要素没变，但结果如何你看到了。</p>
+<p><img src="http://tc.seoipo.com/2022-09-04-15-40-26.png" alt="" title="超级魔改图片" loading="lazy"></p>
+<h3 id="image-lab" tabindex="-1"> Image Lab</h3>
+<p>Image Lab 能批量修正面孔和放大图片分辨率。</p>
+<p>Fix Faces 是通过 GFPGAN 模型来改善图片中的面孔，Effect strength 滑块可以控制效果的强度。但实际效果别报太高期许，下图右侧开启了 Fix Faces，只能说勉强有了五官。</p>
+<p><img src="http://tc.seoipo.com/2022-09-04-15-47-14.png" alt="" title="A woman flying in the air laughing" loading="lazy"></p>
+<p>Upscale 放大分辨率功能有 RealESRGAN，GoBIG，Latent Diffusion Super Resolution 和 GoLatent 四种模型，其中的 RealESRGAN 有普通与卡通两种模式，可按需选择。Upscale 图片主要消耗 CPU 与内存资源。</p>
+<h2 id="使用说明" tabindex="-1"> 使用说明</h2>
+<h3 id="文字描述图像" tabindex="-1"> 文字描述图像</h3>
+<p>Stable Diffusion 的核心功能是以文字内容 (英文) 描绘一个场景或事物，从而决定你的画面中将出现什么。因此，文字描绘是决定图像生成质量的关键因素。接下来，我会以官方文档案例为例，解构描述文字的要素和标准。<sup></sup></p>
+<p>样例：<code>A beautiful painting {画作种类} of a singular lighthouse, shining its light across a tumultuous sea of blood {画面描述} by greg rutkowski and thomas kinkade {画家/画风}, Trending on artstation {参考平台}, yellow color scheme {配色}</code>。</p>
+<ul>
+<li>画作种类：ink painting（水墨画），oil painting（油画），comic（漫画），digital painting（数字印刷品），illustration（插画），realistic painting（写实画），portrait photo（肖像照）等等，可叠加多个种类描述。</li>
+<li>参考平台：Trending on artstation，也可以替换为「Facebook」「Pixiv」「Pixbay」等等。下方提供相同参数下不同参考平台生成的图片风格。</li>
+<li>画家/画风：成图更接近哪位画家的风格，此处可以输入不止一位画家，如「Van Gogh:3」and「Monet:2」，即作品三分像梵高，两分像莫奈；或直接描述风格种类，如 <code>very coherent symmetrical artwork</code>，将作品结构设为「连贯且对称」。</li>
+<li>配色：yellow color scheme 指整个画面的主色调为黄色。</li>
+<li>画面描述：除了描述主题，还可以描述次要元素和形容词描述画面。
+<ul>
+<li>画面元素，如：背景 <code>beautiful background, forest</code>，光线描述 <code>diffuse natural sun lights, autumn lights, cinematic lighting, god rays</code>；</li>
+<li>肖像描述，如 <code>detailed gorgeous face, elegant, female, slight smile, cinematic lighting, hard rim lighting photography</code>，超模描述 <code>gorgeous woman, top model, fashion, vogue magazine, delicate features</code>，人物细节描述 <code>double eyelids, big eyes, high nose bridge, large DD breasts, wavy silver hair, armless, legless</code>；</li>
+<li>画面质量描述，如 <code>award winning, breathtaking, groundbreaking, superb, outstanding</code>；</li>
+<li>细节特点描述，如 <code>symmetry, intricate, gorgeous, hyperrealistic, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, octane render, depth of field, illustration, 8k</code>。</li>
+</ul>
+</li>
+<li>auto 分支支持 negative prompt，即画面不要出现的描述，如 <code>deformed, blurry, bad anatomy, disfigured, mutation, mutated, body out of frame, cross-eye, extra limbs, extra heads, extra legs, extra arms, poorly drawn face, poorly drawn hands, poorly drawn feet, fat, disfigured, out of frame, long neck, poo art, bad hands, bad art</code>，避免裸体 <code>nudity, bare breasts</code>。</li>
+<li>如果你想特别强调某个描述，可以加很多括号或者惊叹号，比如 <code>desert!!, forest, holland, (((sunset)))</code> 中优先体现「desert」和「sunset」元素。</li>
+</ul>
+<p><img src="http://tc.seoipo.com/2022-09-16-22-33-26.png" alt="" title="相同参数下不同参考平台生成的图片" loading="lazy"></p>
+<p>除画面描述外，其他要素并非必须。如果你只是简单尝试，甚至可以只输入「apples」。如果你没有思绪，可以看 AI 图库 <a href="https://prompthero.com/" target="_blank" rel="noopener noreferrer">PromptHero</a> 和 <a href="https://openart.ai/" target="_blank" rel="noopener noreferrer">OpenArt</a> 上其他人分享的成品图和描述文案，比如</p>
+<blockquote>
+<p>goddess close-up portrait skull with mohawk, ram skull, skeleton, thorax, x-ray, backbone, jellyfish phoenix head, nautilus, orchid, skull, betta fish, bioluminiscent creatures, intricate artwork by Tooth Wu and wlop and beeple, highly detailed, digital painting, Trending on artstation, very coherent symmetrical artwork, concept art, smooth, sharp focus, illustration, 8k</p>
+</blockquote>
+<h3 id="prompt-matrix" tabindex="-1"> Prompt matrix</h3>
+<p>Prompt matrix 是按不同条件组合生成多张相关但不同的画面，可以用于制作视频素材。<sup></sup> 此时，批次数量的设置会被忽略。</p>
+<i>Content not supported</i><p>上方视频的调教词为 <code>A mecha robot in World War II in realistic style|Shoot with another mecha robot|Bombed by planes|Missile drop|broken|Repaired|cinematic lighting</code>。<code>|</code> 符号后的场景条件将进行排列组合，视频样例有 6 个场景条件生成 64 张图。</p>
+<p>另外，我们可以指定场景条件位置，比如 <code>@(moba|rpg|rts) character (2d|3d) model</code> 表示 <code>(moba|rpg|rts 三选一) character (2d|3d 二选一) model</code>，也就是会生成 3*2 张图片。开头的 <code>@</code> 是触发指定场景条件位置的符号，不能省略。</p>
+<h2 id="常见问题" tabindex="-1"> 常见问题</h2>
+<h3 id="docker-desktop-failed" tabindex="-1"> Docker Desktop failed</h3>
+<p>未正常安装/关闭 Docker 容器时，可能会报错 <code>Docker Desktop failed to start/stop</code> 。</p>
+<p>先删除 <code>%AppData%</code> 路径下的 Docker 文件夹，然后在 PowerShell 中输入下方命令，关闭 WSL 和 docker-desktop。最后，手动重启 Docker Desktop。</p>
+<div><pre><code>wsl --shutdown
+wsl -l -v
+wsl --unregister docker-desktop
+wsl -l -v
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div></div></div><h3 id="docker-desktop-cannot-start" tabindex="-1"> Docker Desktop cannot start</h3>
+<p><code>Hardware assisted virtualization and data execution protection must be enabled in the BIOS</code> 报错说明电脑没开启虚拟化。</p>
+<p>在开机的时候多按几次 <code>F2</code> 或 <code>DEL</code> 进入 BIOS，然后设置中开启「Intel Virtual Technology」，AMD 则是将「SVM Support」设置为设置为「Enable」的状态；最后点击「F10」保存退出即可。</p>
+<h3 id="docker-命令失败" tabindex="-1"> docker 命令失败</h3>
+<p><code>The command 'docker' could not be found</code> 说明当前命令行确实 Docker 环境缺失，检查 Docker Desktop 是否启动。</p>
+<h3 id="端口访问被拒" tabindex="-1"> 端口访问被拒</h3>
+<p>Docker 容器原本运行正常，端口访问突然被拒绝了，显示 <code>Error response from daemon: Ports are not available: exposing port TCP 0.0.0.0:7860 -&gt; 0.0.0.0:0: listen tcp 0.0.0.0:7860: bind: An attempt was made to access a socket in a way forbidden by its access permissions</code>。</p>
+<p>在 Powershell 中输入 <code>netsh int ipv4 show excludedportrange protocol=tcp</code> 检查是否处于被排除端口范围，然后输入 <code>reg add HKLM\SYSTEM\CurrentControlSet\Services\hns\State /v EnableExcludedPortRange /d 0 /f</code> 开启端口。操作完成后，重启电脑即可解封端口。<sup></sup></p>
+<h3 id="filenotfounderror" tabindex="-1"> FileNotFoundError</h3>
+<p>再次架构容器时报错 <code>FileNotFoundError: [Errno 2] No such file or directory: '/models/model.ckpt'</code>，这是架构位置错误导致的。此时，我们需要检查是否通过 WSL 输入的架构命令，并且 Stable Diffusion WebUI Docker 解压路径是否配置正确。</p>
+<h3 id="采样模型" tabindex="-1"> 采样模型</h3>
+<p>采样模型是 AI 绘画的核心。2022.09.10 支持自动下载采样模型，下方列表仅做参考。</p>
+<ul>
+<li><a href="https://www.googleapis.com/storage/v1/b/aai-blog-files/o/sd-v1-4.ckpt?alt=media" target="_blank" rel="noopener noreferrer">Stable Diffusion v1.4 (4GB)</a>, 将压缩包文件重命名为 <code>model.ckpt</code>。</li>
+<li>(可选) <a href="https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.4.pth" target="_blank" rel="noopener noreferrer">GFPGANv1.4.pth (340MB)</a>。</li>
+<li>(可选) <a href="https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth" target="_blank" rel="noopener noreferrer">RealESRGAN_x4plus.pth (64MB)</a> 和 <a href="https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth" target="_blank" rel="noopener noreferrer">RealESRGAN_x4plus_anime_6B.pth (18MB)</a>。</li>
+<li>(可选) <a href="https://heibox.uni-heidelberg.de/f/578df07c8fc04ffbadf3/?dl=1" target="_blank" rel="noopener noreferrer">LDSR (2GB)</a> 和 <a href="https://heibox.uni-heidelberg.de/f/31a76b13ea27482981b4/?dl=1" target="_blank" rel="noopener noreferrer">LDSR 配置</a>，分别重命名为 <code>LDSR.ckpt</code> 和 <code>LDSR.yaml</code>。</li>
+</ul>
+<h2 id="最后" tabindex="-1"> 最后</h2>
+<p>Stable Diffusion 还不能作为生产力工具，但它让设计变得简单，也让更多普通人打开了 AI 绘画的可能性。推荐大家实际部署玩下，让自己拥有更多的可能。</p>
+<p>本文于「<a href="https://sspai.com/post/75544" target="_blank" rel="noopener noreferrer">少数派首发</a>」。</p>
+<hr>
+<section>
+<ol>
+<li id="footnote1"><p><a href="https://www.runoob.com/docker/windows-docker-install.html" target="_blank" rel="noopener noreferrer">Windows Docker 安装</a> </p>
+</li>
+<li id="footnote2"><p><a href="https://docs.microsoft.com/zh-cn/windows/wsl/install#install-wsl-command" target="_blank" rel="noopener noreferrer">使用 WSL 在 Windows 上安装 Linux</a> </p>
+</li>
+<li id="footnote3"><p><a href="https://docs.microsoft.com/zh-cn/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v#enable-hyper-v-using-powershell" target="_blank" rel="noopener noreferrer">在 Windows 10 上安装 Hyper-V</a> </p>
+</li>
+<li id="footnote4"><p><a href="https://github.com/AbdBarho/stable-diffusion-webui-docker/wiki/Setup" target="_blank" rel="noopener noreferrer">Setup Stable Diffusion WebUI Docker</a> </p>
+</li>
+<li id="footnote5"><p><a href="https://www.ifanr.com/app/1484403" target="_blank" rel="noopener noreferrer">外网爆火的 4 款「你说我画」自动作画工具，我们测了下，有 1 款的确超强</a> </p>
+</li>
+<li id="footnote6"><p><a href="https://github.com/hlky/stable-diffusion#prompt-matrix" target="_blank" rel="noopener noreferrer">stable-diffusion Prompt matrix</a> </p>
+</li>
+<li id="footnote7"><p><a href="https://github.com/docker/for-win/issues/3171#issuecomment-572571882" target="_blank" rel="noopener noreferrer">Windows 端口访问被拒</a> </p>
+</li>
+</ol>
+</section>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>抛弃 Notion 知识管理软件的尝试：把博客变为知识库</title>
+      <link>https://newzone.top/_posts/2022-08-22-learndata_blog_to_knowledge_management.html</link>
+      <guid>https://newzone.top/_posts/2022-08-22-learndata_blog_to_knowledge_management.html</guid>
+      <source url="https://newzone.top/rss.xml">抛弃 Notion 知识管理软件的尝试：把博客变为知识库</source>
+      <category>博客</category>
+      <category>头脑驿站</category>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Notion、Obsidian、Logseq、Roam Research、Evernote、flomo、为知、飞书、语雀……知识管理/笔记软件越来越多，我总在不同应用间徘徊。直到有次忽然醒悟，知识管理软件不是管理知识，而是管理笔记。<strong>笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的知识。</strong></p>
+<p>这么简单的事，我之前却一直没看透，总是把笔记与知识理解划上了等号。当要用到曾摘录的笔记时，就在各类知识管理软件里翻找，折腾一番才找到需要的笔记，有时甚至出现「自己不清楚放在哪里，也不清楚是否有」的情况。记笔记花了一个小时，下次寻找与重新消化又花了一个小时，原本为效率而生的知识管理软件变成了浪费时间的杀手。</p>
+<p>另一方面，我们在用知识管理软件的美观界面和强大功能的同时，也被这些软件所限制，无法完全按自己的想法输出笔记。比如，你长了一双翅膀，<strong>Markdown 文本是自由的天地，而进入 Notion 则被隔成一个个小房间</strong>，你在房间里待着很舒服，可一旦想去其他房间，就必须脱离 block，不比 Markdown 可以自由飞翔。</p>
+<p><img src="http://tc.seoipo.com/2022-08-22-18-02-07.png" alt="" title="Markdown VS Notion" loading="lazy"></p>
+<p>突破迷思后，我基于 VuePress 和 vuepress-theme-hope 建立了 <a href="https://github.com/rockbenben/LearnData" target="_blank" rel="noopener noreferrer">LearnData</a> 项目，把知识笔记、生活记录、博客和任何觉得有价值的记录转成 Markdown 文本，然后推送到 GitHub 生成 Pages 静态页面，同步到国内云服务器形成 <a href="https://newzone.top/" target="_blank" rel="noopener noreferrer">LearnData - 开源笔记</a>。</p>
+<p><img src="http://tc.seoipo.com/2022-08-24-19-14-59.png" alt="" title="笔记/博客自动化发布" loading="lazy"></p>
+<p>LearnData 的笔记/文章编辑均使用 Markdown，输出不再受到应用的局限。同时，LearnData 看似是由一篇篇文章组成的博客，但其笔记是独立的知识点，是所有知识的终点站，是整理后的知识库。通过 LearnData 就能完成知识的搜索与整理，不再需要来回翻找。把博客转为知识库后，我明显感到学习和知识使用的效率得到提高，开始摆脱「工具奴隶」和「效率中毒」陷阱。</p>
+<p><img src="http://tc.seoipo.com/2022-08-22-19-28-25.png" alt="" title="笔记 + 文章 = LearnData 知识库" loading="lazy"></p>
+<h2 id="为什么用网页管理笔记" tabindex="-1"> 为什么用网页管理笔记</h2>
+<h3 id="公开分享想法" tabindex="-1"> 公开分享想法</h3>
+<p>知识管理/笔记软件天然带有私有性质，不对外公开。但是，我的笔记大都来自互联网，要对谁保密？</p>
+<p>我很推崇 Ray Dalio 在《原则》中提到的「头脑极度透明，公开分享想法」。</p>
+<blockquote>
+<p>让其他人无比清晰地看到你在做什么、为什么这么做。头脑越透明，越不会自欺，其他人也会给你诚实的反馈。</p>
+</blockquote>
+<p>作为国内最早一批介绍 Aria2 的人，我曾经写过一篇 Aria2 教程，文章后来被多个网站参考/抄袭，覆盖了 Aria2 某度搜索前三页。在那篇文章的评论区，有好几条留言说文章逻辑差看不懂的，也经常有热心人帮我怼回去。其实，那篇文章的初版真的很糟糕，只是写得比较早，当时没几篇中文教程，大家只能看这篇教程。我写文章的初衷是方便自己用，避免一个解决方案用完就忘，下次又从头开始。那篇文章是在大家的反馈下，迭代了三个版本才开始变得完整和逻辑化。这些反馈也是我坚持写博客的原动力。这跟费曼学习法的道理相通，当你写文章帮助其他人时，你也在加深自己对知识的理解。</p>
+<p>建立 LearnData 只有一个月，但我从中获取的正反馈超过私有笔记一年的获得。笔记公开化是有百利而无一害。</p>
+<h3 id="输出分享" tabindex="-1"> 输出分享</h3>
+<p>其次，网页形式让笔记方便分享。除了效率工具心得，我把生活技巧、购物评价和说明书也放在 LearnData。家人或朋友需要帮助时，直接访问网页即可，不需要安装 app 或折腾账户分享，比如下图的 <a href="https://newzone.top/family/Maintenance.html#%E9%80%9A%E9%A9%AC%E6%A1%B6" target="_blank" rel="noopener noreferrer">通马桶技巧</a> 和疏通器说明书。</p>
+<p><img src="http://tc.seoipo.com/2022-08-19-22-52-29.png" alt="生活知识页面样例" loading="lazy"></p>
+<h3 id="漂亮决定生产力" tabindex="-1"> 漂亮决定生产力</h3>
+<p>另外，网页能自由调整外观样式，更换为你喜欢的界面。这也是为什么 LearnData 舍弃了初版的 docsify 框架，改为复杂许多的 VuePress 框架。docsify 官方模板过于简单，没有界面设计模块，难以满足知识管理界面必须直观漂亮的要求，而这点直接决定了生产力，不能让步。</p>
+<p>知识管理/笔记软件将 Markdown 文件作为一个个区块，而网页可以将其视为一体。LearnData 支持多级侧边栏和目录，让阅读查找变得简单。</p>
+<p><img src="http://tc.seoipo.com/2022-08-19-22-42-03.png" alt="" title="LearnData 页面布局" loading="lazy"></p>
+<h2 id="为什么不用-obsidian" tabindex="-1"> 为什么不用 Obsidian</h2>
+<p>@北鸮 提到「脱离 Notion 可以理解，Markdown 很自由，那为啥不用 Obsidian 呢？也有标题，也有标签，也可以有层级，开源软件还有 Logseq 替代」。</p>
+<p>Obsidian 等双链笔记想法设计很好，我们可以自由地在不同知识点间切换，节省搜索和关联的时间。但知识点的联系是靠人工打标签来建立的，而非根据关键词自动建立图谱关系。这跟 URL 链接又有什么区别？因此我认为，<strong>双链笔记并不适合知识库</strong>。（如果对双链笔记理解错误，欢迎纠正。）</p>
+<p><img src="http://tc.seoipo.com/2022-08-19-21-39-41.png?imageMogr2/thumbnail/!60p" alt="" title="我的 Obsidian 图谱，只有右下角简悦抓取的素材有相同标签而聚作一团" loading="lazy"></p>
+<p>建立知识点联系后，双链笔记能轻松处理成千上万个文档，按条件整合文本方便阅读。但是，多数人常用知识范围不会超过一百。如果你的个人笔记上千了，说明你要不是科研大佬，要不没消化甚至是根本没读过这些笔记，只是在记笔记。</p>
+<p>除去博客，我只有 37 篇笔记，而且按功能划分为 7 个区块。你觉得这点文件，用树状管理方便，还是用双链笔记打一堆标签来得好？即使有时标题里找不到某个关键词，我用全文搜索达到目的。我个人会倾向于简单方便的树状标题管理。</p>
+<h2 id="抛弃知识软件-不用" tabindex="-1"> 抛弃知识软件 ≠ 不用</h2>
+<p>选择 Markdown 就得卸载知识软件吗？</p>
+<p>抛弃知识软件并不是不用，而是将其视为知识的中转站。知识软件的趋势是 ALL IN ONE，记录全能成了标榜的主打功能。可是，<strong>光收集而不应用的知识等于零</strong>，只会增加你后续的使用成本。</p>
+<p>知识软件对我来说，是功能清晰的素材库。我会不断清空素材库，将小的知识点融入 LearnData 笔记区，成体系内容则写成博客，确保 LearnData 成为知识库的终点。</p>
+<p><img src="http://tc.seoipo.com/2022-08-21-21-38-47.png" alt="" title="知识类素材库" loading="lazy"></p>
+<ul>
+<li>Logseq 对信息节点化，能按日期整合文本，因此我用它来记录笔记，并定期生成周报和月报回顾。</li>
+<li>飞书文档自带侧边目录栏，对长文档优化很好，因此我用它来记录工作心得，定期形成工作流程在公司分享。</li>
+<li>WonderPen 带多层级标题，当一点头绪方向都没有时，素材就直接丢这。</li>
+<li>Notion 貌似全能，但其可替代性也最高，知识库迁移到 LearnData 后，Notion 仅存放涉及个人信息和不方便转移的旧文档。</li>
+<li>Airtable 表格功能最强，虽然已经被其他软件赶上了，但前期存储过多，表格类继续放这。</li>
+<li>SuperMemo 与 Anki 功能类似，对记忆性的笔记定期复习。</li>
+</ul>
+<h2 id="如果你也想试试" tabindex="-1"> 如果你也想试试……</h2>
+<p>如何搭建把博客转为知识库，建立属于你的 LearnData 知识管理网站呢？</p>
+<p>首先，确定你有 GitHub 账户，懂 Markdown 和基础 HTML 知识。然后，按 <a href="https://newzone.top/#%E6%90%AD%E5%BB%BA-LearnData" target="_blank" rel="noopener noreferrer">LearnData 部署教程</a> 即可完成搭建和配置。如果你的笔记已经 Markdown 化，把文档放在 docs 目录下就可以建立你自己的知识库。</p>
+<p>笔记结构可以参考我的分类。这没有绝对的界限，只要看到自己觉得有价值的知识点，都可以往 LearnData 里丢。但是，不要全文本地化收藏，简单提取用链接引用即可，除少量精品外，网络时代的文章隔几年就会失效，没必要收藏为一篇篇的笔记。当下次应用到这个知识点时，我们再考虑整理事宜，否则，长时间用不到的知识，又有什么整理的价值呢。</p>
+<ul>
+<li>置顶：日常习惯、健身、阅读；</li>
+<li>代码：常用代码的学习使用笔记；</li>
+<li>软件应用：常用应用、Chrome 扩展及相关教程；</li>
+<li>页面开发：页面插件和框架生成工具；</li>
+<li>网站部署：网站相关的平台、工具及知识收集；</li>
+<li>Linux 服务：NAS 和服务器上的后端应用，主要以 Docker 方式部署；</li>
+<li>系统问题：Windows 系统优化和相关问题；</li>
+<li>生活区：说明书，生活记录及小技巧；</li>
+<li>博客区：聚合所有博客文章，并以分类、标签、时间轴等方式进行组合。</li>
+</ul>
+<h2 id="最后" tabindex="-1"> 最后</h2>
+<p>两个月前，我在 WordPress 博客篇中喊着「md2wordpress 是最后一次博客方案」，但由于 WordPress 与 Markdown 各种不兼容，写完没多久就换到支持原生 Markdown 解析的 VuePress。</p>
+<p>这次我不想再立 Flag 了，只希望能放过自己。每进行一次知识迁移，真是大伤，休息一段时间吧。</p>
+<p>如果你有兴趣尝试 <a href="https://newzone.top/" target="_blank" rel="noopener noreferrer">LearnData</a>，欢迎通过链接访问并复制模板尝试，具体的操作方法与常见问答我都写在博客中。有进一步的问题或讨论欢迎在评论区留言。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>新玩意｜智能可折叠综合塑形机</title>
+      <link>https://newzone.top/_posts/2022-08-10-new_stuff_shaping_machine.html</link>
+      <guid>https://newzone.top/_posts/2022-08-10-new_stuff_shaping_machine.html</guid>
+      <source url="https://newzone.top/rss.xml">新玩意｜智能可折叠综合塑形机</source>
+      <category>购物</category>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>家里关得太久，体重又涨了 10 斤，再次陷入健身器材焦虑之中。虽然划船机、跑步机、动感单车的结局都是闲鱼出，但我对健身器材的追逐始终没变。这时发现有品众筹的新玩具，两千的综合塑形机。</p>
+<p><img src="https://cdn.sspai.com/2022/08/09/article/74429ae5770ce6fe9b338527105a4744?imageView2/2/w/450/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></p>
+<p>这款塑形机原理与飞鸟龙门架类似，号称可以充当家庭健身房，锻炼全身的肌肉，包括练肩后束、练背、练上胸、练胸中缝、练下胸、练三头、练二头、练核心、练臀大肌、练大腿外侧。</p>
+<p>之前我就想练飞鸟，不过龙门架实在太大，而这台机器折叠后只占 0.18 平，还能移动位置，完美匹配屋内使用的需求。虽然这是众筹产品，要等 2 个月，还是心动下单了。</p>
+<p><img src="https://cdn.sspai.com/2022/08/09/37a78274cca974e793582250954c75dc.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" title="左侧为龙门架，右侧为塑形机" loading="lazy"></p>
+<p>等待收货时间内，体重继续上涨，总想着健身器材到了就瘦了。但是当收到货后，我终于理解了「<strong>什么叫做众筹</strong>」。</p>
+<p>锻炼时必须用身体抵住塑形机，否则机器会跟着你的动作滑走。虽然滑动的原因在于机器较轻，只有 60 KG，但我无法理解的是，厂家连基本的防滑措施也没有做，仿佛生产前从没人真的用过机器。<strong>防滑降噪脚垫在拖动时倒蛮好用的</strong>，拖起来特别丝滑，完全没有阻抗。为了避免塑形机不断滑走，我只能买了个阻门器，装上后就能避免机器乱滑动了。</p>
+<p><img src="https://cdn.sspai.com/2022/08/09/article/6d2731baacf4174c4b7465b11ba715fd?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" title="右下方是红色的阻门器，硬拉终于不会滑了" loading="lazy"></p>
+<p>解决滑动问题后，我打开塑形机官方视频，才发现其中 90% 的动作用不到塑形机，甚至是根本就扯不上关系。买之前，我看着详情页感觉动作特多功能特强，用过后，才发现「这就是所有的动作」。</p>
+<p><img src="https://cdn.sspai.com/2022/08/09/article/db951607296d83ce9a0ff181d724de14?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></p>
+<p>不过，机器都收货了，动作少也得跟着练。可是，按照塑形机官方教程锻炼一组后，我的肩膀和手臂都被勒伤。原因是与身体接触的部分都是特粗尼龙绳，没有任何缓冲，一用力就容易勒伤。两千的机器连块 PU 皮都要省，可能是想让大家穿着特别严实来锻炼吧。</p>
+<p>钢板间隙过大，凳子要蛮力打开，锻炼视频无法暂停，APP 没有语音提示，视频教程无法切换动作，几乎机器到处都有问题，只能将原因归于众筹了，第一款模具真的是无语。</p>
+<p>当然，这款塑形机也是有好处的。传统龙门架使用铁块配重，重量最少也得上百公斤，而且占地大无法移动。塑形机采用磁力配重，重量只有 60KG，机器折叠后 0.18 平方，配上<strong>防滑降噪脚垫非常方便移动。</strong></p>
+<p>塑形机确实能帮我练到平常少运动的肌肉，目前主要用它练背，等有了新玩具再出闲鱼。</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.sspai.com/2022/08/09/article/74429ae5770ce6fe9b338527105a4744?imageView2/2/w/450/q/90/interlace/1/ignore-error/1" type="image/"/>
+    </item>
+    <item>
+      <title>「硬盘布局不受 UEFI 固件支持」－华硕主板解决方案</title>
+      <link>https://newzone.top/_posts/2020-09-22-uefi_asus_board.html</link>
+      <guid>https://newzone.top/_posts/2020-09-22-uefi_asus_board.html</guid>
+      <source url="https://newzone.top/rss.xml">「硬盘布局不受 UEFI 固件支持」－华硕主板解决方案</source>
+      <category>系统</category>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>电脑用了 5 年，Win10 系统更新时突然提示「硬盘布局不受 UEFI 固件支持」。</p>
+<p><strong>解决办法</strong>：</p>
+<p>电脑重启，按 F2 或 DEL 进入 BIOS。</p>
+<p>选择高级模式，<code>启动－CSM－启动设备控制</code>，设置为「仅 Legecy OPROM」。</p>
+<p><img src="https://pic4.zhimg.com/v2-8a26bd62460f662caad3dba696c54efb_r.jpg" alt="" loading="lazy"></p>
+<p>设置完成后，Windows 系统就可以正常更新了。</p>
+<p>这是华硕主板的解决方案，其他主板的顺序或许不同，但原理是一致的，都是将启动模式修改为「Only Legecy」。</p>
+]]></content:encoded>
+      <enclosure url="https://pic4.zhimg.com/v2-8a26bd62460f662caad3dba696c54efb_r.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>电脑上实现微信双开，无需网页版或第三方软件</title>
+      <link>https://newzone.top/_posts/2017-04-18-wechat_multi_open.html</link>
+      <guid>https://newzone.top/_posts/2017-04-18-wechat_multi_open.html</guid>
+      <source url="https://newzone.top/rss.xml">电脑上实现微信双开，无需网页版或第三方软件</source>
+      <category>工具</category>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>由于工作原因，有时候我们需要在电脑上登录多个微信。但微信限制一个客户端只能登陆一个账号，PC 端 + 网页版就成了通用方案，操作效率下降许多。</p>
+<p>其实我们还有更好的办法。在微信 PC 版之余，同时安装微信 For Windows，就能实现客户端双开！</p>
+<h2 id="微信-for-windows-安装" tabindex="-1"> 微信 For Windows 安装</h2>
+<p>打开「运行」对话框，输入并启动「应用商店」或「Microsoft Store」，搜索并安装 <code>微信 For Windows</code>。</p>
+<p><img src="http://tc.seoipo.com/2022-05-06-04-21-30.png" alt="" loading="lazy"></p>
+<p>安装好后，就能与微信 PC 版一齐启动，互不干扰。</p>
+<p><img src="http://tc.seoipo.com/2022-05-06-04-21-40.png" alt="" loading="lazy"></p>
+<h2 id="开机启动两个微信" tabindex="-1"> 开机启动两个微信</h2>
+<p>找到系统启动文件夹，文件夹路径为：<code>%AppData%\Microsoft\Windows\Start Menu\Programs\Startup</code>。或者打开「运行」对话框，输入命令「shell:startup」，回车即可打开「启动文件夹」。</p>
+<p>将微信 for windows 10 的快捷方式放到「启动」文件夹里。</p>
+<p><img src="http://tc.seoipo.com/2022-05-06-04-23-49.png" alt="" loading="lazy"></p>
+<p>三开的话，可以在 Microsoft Store 上安装 微信 (UWP) 。</p>
+<p>如果还需要继续多开微信，可以参考 @刘舒怡 的方法：</p>
+<blockquote>
+<p>只要在 2 秒内快速连续双击打开软件，就能弹出很多登录界面，你想登多少个就登多少个</p>
+</blockquote>
+<p>另外，有人专门开发了微信/QQ 多开的补丁，需要四开以上的可以试试 <a href="https://github.com/huiyadanli/RevokeMsgPatcher" target="_blank" rel="noopener noreferrer">RevokeMsgPatcher</a>。</p>
+<p>但多开补丁风险未知，我只用了其中的防撤回功能，需谨慎使用多开补丁。</p>
+<p>国内搬运地址：<a href="https://wwz.lanzouf.com/ij0oz05ns3di" target="_blank" rel="noopener noreferrer">RevokeMsgPatcher.v1.5.zip</a></p>
+]]></content:encoded>
+      <enclosure url="http://tc.seoipo.com/2022-05-06-04-21-30.png" type="image/png"/>
+    </item>
+    <item>
+      <title>RSS 入门篇：Feed43&amp;FeedEx-为静态网页定制 RSS 源</title>
+      <link>https://newzone.top/_posts/2017-04-22-rss_feed43_feedex.html</link>
+      <guid>https://newzone.top/_posts/2017-04-22-rss_feed43_feedex.html</guid>
+      <source url="https://newzone.top/rss.xml">RSS 入门篇：Feed43&amp;FeedEx-为静态网页定制 RSS 源</source>
+      <category>自动化</category>
+      <pubDate>Sat, 22 Apr 2017 12:54:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>迷上 IFTTT 后急需 RSS 来监测网页，找到免费的 FEED43。网上有很多教程，但对新手都不够友好，就重新整理了一份。</p>
+<p><strong>► 开始烧制属于自己的 feed</strong></p>
+<h2 id="_1-进入网页" tabindex="-1"> 1. 进入网页</h2>
+<p><a href="http://www.feed43.com/" target="_blank" rel="noopener noreferrer">FEED43</a> 无需注册，点击 Create your own feed 直接使用。</p>
+<p><img src="https://pic1.zhimg.com/v2-b5da0b08f632376fad3925a779e373b4_r.jpg" alt="" loading="lazy"></p>
+<h2 id="_2-选定-rss-网页" tabindex="-1"> 2. 选定 RSS 网页</h2>
+<p>将目标网址添入 Step1. Specify source page address (URL)，将输入的源代码复制到 txt 文档中（方便之后写抓取规则）</p>
+<p><img src="https://pic1.zhimg.com/v2-1b687a5b1c325ba6d04fbdcc13b95668_r.jpg" alt="" loading="lazy"></p>
+<p>如果 Page Source 显示为乱码，Encoding 可设为 <strong>UTF-8</strong> 。</p>
+<h2 id="_3-定制-rss-抓取规则" tabindex="-1"> 3. 定制 RSS 抓取规则</h2>
+<p>Global Search Pattern 是选择你要搜索的范围。可以不填，这样会搜索整个页面，一般新手都选择整个页面，即空白。Item (repeatable) Search Pattern 这部分最重要，是我们要抓取的内容。</p>
+<p><img src="https://pic1.zhimg.com/v2-b1fa90c59739bddc0c27134cd36ba6bc_r.jpg" alt="" loading="lazy"></p>
+<p>仔细查看 Step1 中的源代码，找到区需要抓取的部分，输入到 Item (repeatable) Search Pattern。</p>
+<p>测试网址：<code>http://news.163.com/special/0001386F/rank_whole.html</code>。</p>
+<p>需要抓取的源代码：</p>
+<div><pre><code><span><span><span>&lt;</span>tr</span><span>></span></span>
+  <span><span><span>&lt;</span>td</span> <span>class</span><span><span>=</span><span>"</span>red<span>"</span></span><span>></span></span>
+    <span><span><span>&lt;</span>span</span><span>></span></span>2<span><span><span>&lt;/</span>span</span>
+    <span>></span></span><span><span><span>&lt;</span>a</span> <span>href</span><span><span>=</span><span>"</span>更时尚更运动 车展实拍解析红旗 H5<span>"</span></span>
+      <span>></span></span>更时尚更运动 车展实拍解析红旗 H5<span><span><span>&lt;/</span>a</span>
+    <span>></span></span>
+  <span><span><span>&lt;/</span>td</span><span>></span></span>
+  <span><span><span>&lt;</span>td</span> <span>class</span><span><span>=</span><span>"</span>cBlue<span>"</span></span><span>></span></span>11211615<span><span><span>&lt;/</span>td</span><span>></span></span>
+<span><span><span>&lt;/</span>tr</span><span>></span></span>
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p><img src="https://pic2.zhimg.com/v2-cf6dbf2c09189f7517ec63abdc80c50d_r.jpg" alt="" loading="lazy"></p>
+<p><strong>抓取规则</strong>：</p>
+<div><pre><code><span><span><span>&lt;</span>tr</span><span>></span></span>
+  {*}
+  <span><span><span>&lt;</span>td</span> <span>class</span><span><span>=</span><span>"</span>{*}<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span><span>></span></span>{*}<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>a</span> <span>href</span><span><span>=</span><span>"</span>{%}<span>"</span></span><span>></span></span>{%}<span><span><span>&lt;/</span>a</span><span>></span></span><span><span><span>&lt;/</span>td</span><span>></span></span>
+  {*}
+  <span><span><span>&lt;</span>td</span> <span>class</span><span><span>=</span><span>"</span>cBlue<span>"</span></span><span>></span></span>{*}<span><span><span>&lt;/</span>td</span><span>></span></span>
+  {*}
+<span><span><span>&lt;/</span>tr</span><span>></span></span>
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>点击 Extract，进行抓取。</p>
+<p><img src="https://pic4.zhimg.com/v2-e9486741a6229ab258a95147f584571b_r.jpg" alt="" loading="lazy"></p>
+<h2 id="_4-整理-rss-输入格式" tabindex="-1"> 4. 整理 rss 输入格式</h2>
+<p>Define output format，一般情况下前面三个会已经写好，后三个就将前面得出的 item 里面的元素填入即可，我这里{%1}对应的是链接所以填入 Link，{%2}对于标题就填入 Title。</p>
+<p><img src="https://pic1.zhimg.com/v2-b4614f5c46090f2eb762aac87d604350_r.jpg" alt="" loading="lazy"></p>
+<p>然后点击 preview，完成制作，同时出现预览。</p>
+<p><img src="https://pic2.zhimg.com/v2-498bf1f1c0b14da172498b58f59e39b9_r.jpg" alt="" loading="lazy"></p>
+<p>如果注册了 FEED43 的账号，可以修改 rss 地址，但不能改为中文，否则会 rss 出错。</p>
+<h2 id="_5-获取-rss-地址" tabindex="-1"> 5. 获取 RSS 地址</h2>
+<p>点击 Feed URL 可得 rss 地址，我这里是 <a href="https://www.feed43.com/dianji.xml" target="_blank" rel="noopener noreferrer">https://www.feed43.com/dianji.xml</a></p>
+<p><img src="https://pic1.zhimg.com/v2-f3b00e876d8df136f7d354b4fc22f900_r.jpg" alt="" loading="lazy"></p>
+<p>在 RSS reader 中展示为</p>
+<p><img src="https://pic4.zhimg.com/v2-6d8f503ff3da16eb985ca1d3ae2de98f_r.jpg" alt="" loading="lazy"></p>
+<h2 id="_6-全文抓取" tabindex="-1"> 6. 全文抓取</h2>
+<p>feed43 导出的条目必须点击链接才能看到内容。在 rss 展示全文，需要通过 FeedEx 再转一次。注意：feed43 免费用户过多，<strong>需在浏览器中打开一次才能得到真实链接</strong> (一般为 <code>http://node2.feed43.com</code>)，FeedEx 需使用真实链接，一般 3 分钟内转换好。</p>
+<p>FeedEx：<a href="https://feedex.net/" target="_blank" rel="noopener noreferrer">https://feedex.net/</a></p>
+<p><img src="https://pic4.zhimg.com/v2-8e3701adffa1d6fb4ea10dda2704988b_r.jpg" alt="" loading="lazy"></p>
+<p>feeds43 免费版每 6 小时抓取一次，显示最新的 20 条内容。</p>
+<p>如果网页源更新较频繁的话，可使用 RSSHub 和 Huginn。</p>
+<h2 id="rss-合集" tabindex="-1"> RSS 合集</h2>
+<p>汇总的 RSS 永久订阅 feeds，均通过 RSSHub 和 Huginn 制作。如果有兴趣自制 RSS，可参考以下教程。</p>
+<ul>
+<li>
+<p><a href="https://newzone.top/_posts/2017-04-22-rss_feed43_feedex.html" target="_blank" rel="noopener noreferrer">RSS 入门篇：FEED43&amp;FeedEx-为静态网页定制 RSS 源</a></p>
+</li>
+<li>
+<p><a href="https://newzone.top/_posts/2018-10-07-huginn_scraping_any_website.html" target="_blank" rel="noopener noreferrer">RSS 进阶篇：Huginn - 真·为任意网页定制 RSS 源（PhantomJs 抓取）</a></p>
+</li>
+<li>
+<p><a href="https://newzone.top/_posts/2019-04-01-rsshub_noob.html" target="_blank" rel="noopener noreferrer">RSS 速成篇：RSSHub 捡现成的轮子</a></p>
+</li>
+<li>
+<p><a href="https://newzone.top/_posts/2020-03-25-rsshub_on_vps.html" target="_blank" rel="noopener noreferrer">RSS 速成篇 2：RSSHub 自部署</a></p>
+</li>
+<li>
+<p><a href="https://newzone.top/_posts/2021-10-23-nas_with_rsshub_and_huginn.html" target="_blank" rel="noopener noreferrer">RSS 完结篇：节省千元服务费，RSSHub、Huginn 转移 NAS</a></p>
+</li>
+<li>
+<p><a href="https://newzone.top/_posts/2022-03-17-rss_persistent_link_collection.html" target="_blank" rel="noopener noreferrer">RSS 汇总篇：RSS 永久链接合集，拒绝 RSS 失效</a></p>
+</li>
+</ul>
+<p><strong>参考资料</strong>：</p>
+<ul>
+<li>
+<p><a href="http://www.appinn.com/feed43/" target="_blank" rel="noopener noreferrer">FEED43 – 为没有 Feed 的网页生成 RSS 格式订阅源 [教程]</a></p>
+</li>
+<li>
+<p><a href="https://www.douban.com/note/199431341/" target="_blank" rel="noopener noreferrer">喜欢的网站，没有 rss 怎么办，自己做！！用 FEED43 自己烧制喜欢网页 rss 教程 -- 小佑 (其实内附双教程)</a></p>
+</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://pic1.zhimg.com/v2-b5da0b08f632376fad3925a779e373b4_r.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>office 2016 安装程序报错解决办法</title>
+      <link>https://newzone.top/_posts/2017-07-28-office_2016_installer_error.html</link>
+      <guid>https://newzone.top/_posts/2017-07-28-office_2016_installer_error.html</guid>
+      <source url="https://newzone.top/rss.xml">office 2016 安装程序报错解决办法</source>
+      <category>系统</category>
+      <pubDate>Fri, 28 Jul 2017 11:02:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>重新安装 Office 系统或更改安装组件时，经常提示：「找不到有效的安装源」，但实际这些文件都能在安装包内找到。这是由于注册表和组件而导致的报错，<strong>「找不到有效的安装源」并不是真实原因</strong>，解决方法查看下方。</p>
+<p><img src="https://pic3.zhimg.com/v2-85bd2a49a47ee6d0c8eade7b3c249516_r.jpg" alt="" loading="lazy"></p>
+<h2 id="解决方法" tabindex="-1"> 解决方法</h2>
+<ol>
+<li>
+<p>打开 regedit.exe，在注册表中找到路径 <code>计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\Delivery\SourceEngine\Downloads\{90160000-00BA-0804-1000-0000000FF1CE}-C\Sources\PROPLUS16(RG)-6186D162</code>。</p>
+</li>
+<li>
+<p>修改 Path 数据，改为安装包位置，比如 <code>F:\5.软件资源\系统重装\SW_DVD5_Office_Professional_Plus_2016_64Bit_ChnSimp_MLF_X20-42426\groove.zh-cn</code>。</p>
+<p><img src="https://pic3.zhimg.com/v2-650ede86dd191a8f0a1cd6e9b815377a_r.jpg" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>在 C 盘建立安装组件：</p>
+<ul>
+<li>把安装包路径 <code>\groove.zh-cn\</code> 下的文件复制到 <code>C:\MSOCache\All Users\{90160000-00BA-0804-1000-0000000FF1CE}-C</code> 目录下 (如果没有这个目录就自己建立)。</li>
+<li>把安装包路径 <code>\proplus.ww\</code> 下的文件复制到 <code>C:\MSOCache\All Users\{90160000-0011-0000-1000-0000000FF1CE}-C</code>。</li>
+</ul>
+</li>
+<li>
+<p>将需要的程序文件放入 MSOCache 路径
+MSOCache 其它的目录下内容同样根据注册表的内容把它指示的光盘中的安装文件复制到相应的目录下。如果没有那个目录就要自己建立，类似的目录一共有 12 个。
+如果不想全装可以只选择需要的软件，下面以 Onenote 和 Access 为例。</p>
+<ul>
+<li><strong>Onenote</strong> 把安装包路径 <code>\onenote.zh-cn\</code> 下的文件复制到 <code>C:\MSOCache\All Users\{90160000-00A1-0804-1000-0000000FF1CE}-CC</code>。</li>
+<li><strong>Access</strong> 把安装包路径 <code>\access.zh-cn\</code> 下的文件复制到 <code>C:\MSOCache\All Users\{90160000-0015-0804-1000-0000000FF1CE}-C</code>。</li>
+</ul>
+</li>
+<li>
+<p>最后进入安装包运行 setup.exe 安装正常。</p>
+</li>
+</ol>
+<p>Office 组件报错大都是由于 MSOCache 目录被删，建议安装 Office 后不要删除该目录。使用优化工具时，要注意保留 MSOCache 目录及其下的文件。</p>
+]]></content:encoded>
+      <enclosure url="https://pic3.zhimg.com/v2-85bd2a49a47ee6d0c8eade7b3c249516_r.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>OneNote 2016 无法登陆问题解决</title>
+      <link>https://newzone.top/_posts/2017-07-29-onenote_2016_cannot_be_logged_in.html</link>
+      <guid>https://newzone.top/_posts/2017-07-29-onenote_2016_cannot_be_logged_in.html</guid>
+      <source url="https://newzone.top/rss.xml">OneNote 2016 无法登陆问题解决</source>
+      <category>系统</category>
+      <pubDate>Sat, 29 Jul 2017 15:19:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>OneNote 安装后，提示输入账号，但点击「下一步」始终没反应，无法进行登陆。</p>
+<p><img src="https://pic4.zhimg.com/v2-d5945359b896ffd09d9973e9597ec06b_r.jpg" alt="" loading="lazy"></p>
+<p>打开 IE 浏览器，访问 <a href="http://live.com" target="_blank" rel="noopener noreferrer">live.com</a>，如果网页提示「登录需要启动 JavaScript」，说明问题的根源出在 IE 的设置上。</p>
+<p><img src="https://pic1.zhimg.com/v2-cc00b3039f755b92f9ae511c8b7debd0_r.jpg" alt="" loading="lazy"></p>
+<p>依次点击「IE 设置 - Internet 选项 - 安全 - 自定义级别」，然后启用脚本选项的「Java 小程序脚本」和「活动脚本」。</p>
+<p><img src="https://pic2.zhimg.com/v2-717bf3c8b62748b62a04219435b8a75d_r.jpg" alt="" loading="lazy"></p>
+<p><img src="https://pic4.zhimg.com/v2-25697b0c27aa8780c532b7a03a78dcbf_r.jpg" alt="" loading="lazy"></p>
+<p>完成设置后，即可正常登录并打开 OneNote。</p>
+<p><img src="https://pic4.zhimg.com/v2-ff20ef8aa22215cba64b879775dfdf4f_r.jpg" alt="" loading="lazy"></p>
+]]></content:encoded>
+      <enclosure url="https://pic4.zhimg.com/v2-d5945359b896ffd09d9973e9597ec06b_r.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>电脑关机了，第二天一看确又开着的？让系统正常关机！</title>
+      <link>https://newzone.top/_posts/2017-09-02-forced_shutdown.html</link>
+      <guid>https://newzone.top/_posts/2017-09-02-forced_shutdown.html</guid>
+      <source url="https://newzone.top/rss.xml">电脑关机了，第二天一看确又开着的？让系统正常关机！</source>
+      <category>系统</category>
+      <pubDate>Sat, 02 Sep 2017 00:38:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>电脑晚上明明按下关机键，第二天早上却发现电脑开了一晚上？</p>
+<p>这是因为后台应用程序和 GUI 应用程序在阻止或取消关机，系统未能按正常关机。按下列方法授予系统自动关机权限，就能让系统正常关机。</p>
+<p><strong>方法如下：</strong></p>
+<ol>
+<li>
+<p>左下角「开始菜单」-「运行」，打开“运行”对话框，输入 <code>Regedit</code>，进入注册表编辑器</p>
+</li>
+<li>
+<p>打开窗口后，在注册表上方菜单中输入 <code>计算机\HKEY_CURRENT_USER\Control Panel\Desktop</code>。</p>
+</li>
+<li>
+<p>在右侧窗格中找到 <code>AutoEndTasks</code> 键值，如果没有，则新建一个名为 <code>AutoEndTasks</code> 的「字符串值」，并将键值的数值设为 <code>1</code>。AutoEndTasks 表示自动结束失去响应的程序任务，0 为 false，是默认值，表示不自动结束失去响应的程序；1 为 true，则表示电脑会自动结束失去响应的程序。</p>
+<p><img src="https://pic3.zhimg.com/v2-c643b9737b35f9dd9a8382c5653e3d3e_r.jpg" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>查找或创建字符串值 <code>WaitToKillAppTimeout</code>，将数值设为 <code>2000</code>。2000 是毫秒，就是当有没有响应的程序时，等待 2 秒后会自动结束相应程序。</p>
+</li>
+</ol>
+<p>操作下，让电脑默认强制关机吧！</p>
+<p>——————————</p>
+<p>网上流行一种修改「gpedit.msc」来达到快速关机的方法，但试验无效，<strong>不能强制关机</strong>。</p>
+<ol>
+<li>
+<p>点击桌面左下角“windows”图标，选择“运行”选项；</p>
+</li>
+<li>
+<p>进入运行窗口，输入“gpedit.msc”命令，按下回车键确定；</p>
+</li>
+<li>
+<p>打开本地组策略编辑器界面，依次展开“计算机配置——管理模板——系统——关机选项”文件夹；鼠标右击右侧“关闭会阻止或取消关机的应用程序的自动终止功能”选项，接着选择“编辑”功能；将弹出窗口选项更改成“已启用”，然后点击“应用——确定”按钮。</p>
+<p><img src="https://pic4.zhimg.com/v2-4b736585b25509b036935a2f9c37d843_r.jpg" alt="" loading="lazy"></p>
+<p>但开启后，提示程序没有响应，无法关机。</p>
+<p><img src="https://pic4.zhimg.com/v2-46fafee0cb6e212e793fc80268ab0917_r.jpg" alt="" loading="lazy"></p>
+</li>
+</ol>
+<p>修改“gpedit.msc”可以关闭程序的关机权限，但没授予关机对程序的关闭权限，<strong>不能使用</strong>！</p>
+]]></content:encoded>
+      <enclosure url="https://pic3.zhimg.com/v2-c643b9737b35f9dd9a8382c5653e3d3e_r.jpg" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
